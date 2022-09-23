@@ -1,2 +1,2 @@
 # s3-static
-Static website file for Amazon S3
+Static website files for Amazon S3. Download all 3 and upload it to your bucket.
